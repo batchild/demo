@@ -1,3 +1,3 @@
 # demo
 create new file
-tring my first repository
+tring my first repository.
